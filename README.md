@@ -3,11 +3,11 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Park-soo!&fontAlign=80&fontAlignY=40&color=gradient)
 
 ### 💻 studing... 💻
-        
-    1. 게시판 만들기 프로젝트 자바 + 스프링부트와 관련 기술 공부 2023.09.25 ~  
-
-<br/>
     
+    Hi there! I'm student of KIT.  
+    I develop games using Unity, Unreal Engine and any other languages.  
+    I am very active, I like to exercise and meet people.🦾🥂  
+    My dream is to create the best game in the world.😆
 <br/>
     
 ## 📚 Tech Stacks 📚
