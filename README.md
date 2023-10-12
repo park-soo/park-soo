@@ -29,8 +29,9 @@
 <a href = "https://github.com/park-soo"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a> <a href = "https://parkman.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-orange.svg?&style=for-the-badge"/></a>
 </a> <a href = "https://instagram.com/parkman_xx"> <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<img alt="Gmail" src 
-="https://img.shields.io/badge/parkman.xxx@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+<img alt="Gmail" src="https://img.shields.io/badge/parkman.xxx@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+ <a href="mailto:parkman.xxx@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
+
 <br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-soo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
