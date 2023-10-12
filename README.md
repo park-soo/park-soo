@@ -5,7 +5,7 @@
 
 
 ### 💻 studing... 💻
-    1. 게시판 만들기 프로젝트 자바 + 스프링부트와 관련 기술 공부 2023.09.25 ~   
+    1. 게시판 만들기 프로젝트 자바 + 스프링부트와 관련 기술 공부 2023.09.25 ~ (https://github.com/park-soo/project-board)   
 <br/>
     
 ## 📚 Tech Stacks 📚
