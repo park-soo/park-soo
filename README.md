@@ -2,6 +2,15 @@
   
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Park-soo!&fontAlign=80&fontAlignY=40&color=gradient)
 
+
+### 🎮 Game Developer 🎮
+    
+    Hi there! I'm student of KIT.  
+    I develop games using Unity, Unreal Engine and any other languages.  
+    I am very active, I like to exercise and meet people.🦾🥂  
+    My dream is to create the best game in the world.😆
+<br/>
+
 ### 💻 studing... 💻
     
     Hi there! I'm student of KIT.  
