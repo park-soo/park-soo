@@ -6,7 +6,7 @@
 
 ### 💻 studing... 💻
 
-❗️게시판 만들기 프로젝트 자바 + 스프링부트와 관련 기술 공부 2023.09.25 ~ 2023.10.30 1차 완료(https://github.com/park-soo/project-board)
+❗️게시판 만들기 프로젝트 자바 + 스프링부트와 관련 기술 공부 2023.09.25 ~ 2023.10.30 1차 완료(https://github.com/park-soo/project-board)  
 ❗️게시판 만들기 프로젝트 자바 + 스프링부트와 관련 기술 공부 2차(기능 고도화) 2023.11.01 ~ (https://github.com/park-soo/project-board)
 <br/>
     
